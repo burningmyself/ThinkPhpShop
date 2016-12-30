@@ -1,0 +1,294 @@
+[ 2016-08-14T12:22:54+08:00 ] 127.0.0.1 /top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Top
+
+[ 2016-08-14T12:22:54+08:00 ] 127.0.0.1 /menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+ERR: 无法加载模块:Menu
+
+[ 2016-08-14T12:22:54+08:00 ] 127.0.0.1 /main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Main
+
+[ 2016-08-14T12:23:12+08:00 ] 127.0.0.1 /Public/Admin/Admin/Styles/general.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T12:23:12+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/th_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:28:59+08:00 ] 127.0.0.1 /index.pnp?admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+ERR: 无法加载模块:Index
+
+[ 2016-08-14T13:29:29+08:00 ] 127.0.0.1 /top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+ERR: 无法加载模块:Top
+
+[ 2016-08-14T13:29:29+08:00 ] 127.0.0.1 /menu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Menu
+
+[ 2016-08-14T13:29:29+08:00 ] 127.0.0.1 /main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+ERR: 无法加载模块:Main
+
+[ 2016-08-14T13:33:00+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:33:00+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:46:44+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:46:44+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:48:43+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:48:43+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:57:40+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:57:40+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:57:47+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:57:47+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:58:29+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:58:29+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:58:30+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T13:58:31+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:00:20+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:00:20+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:01:47+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:01:47+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:03:45+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:03:45+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:03:46+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:03:46+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:03:51+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:03:51+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:04:33+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:04:33+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:04:38+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:04:38+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:04:39+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:04:39+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:06:32+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:06:32+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:07:49+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:07:49+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:07:51+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:07:51+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:07:55+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:07:55+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:08:24+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/button_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Public
+
+[ 2016-08-14T14:08:24+08:00 ] 127.0.0.1 /Public/Admin/Styles/__PUBLIC__/Admin/images/icon_add.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+ERR: 无法加载模块:Public
+
